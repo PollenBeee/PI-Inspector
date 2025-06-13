@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/grammar/SmaliLexer.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\AquaLibraryProjects\Murax4\src\grammar\parser\grammar" />
+          <option name="libDir" value="D:\AquaLibraryProjects\Murax4\src\grammar\parser\grammar" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/grammar/SmaliParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\AquaLibraryProjects\Murax4\src\grammar\parser\grammar" />
+          <option name="libDir" value="D:\AquaLibraryProjects\Murax4\src\grammar\parser\grammar" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14_PREVIEW" default="false" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
